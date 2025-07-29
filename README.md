@@ -1,6 +1,6 @@
 # 🔍 Buscador de Personajes - Rick and Morty
 
-Este es un proyecto simple creado con fines de práctica. Permite buscar personajes de la famosa serie **Rick and Morty** utilizando la [Rick and Morty API](https://rickandmortyapi.com/).
+Proyecto simple creado con fines de práctica. Permite buscar personajes de la serie **Rick and Morty** utilizando la [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## 📸 Captura
 
@@ -9,7 +9,7 @@ Este es un proyecto simple creado con fines de práctica. Permite buscar persona
 ## 🚀 Tecnologías utilizadas
 
 - 🧑‍🚀 Vite / React
-- 🎨 CSS / Tailwind
+- 🎨 UI: TailwindCSS + Shadcn/ui
 - 🔗 [Rick and Morty API](https://rickandmortyapi.com/)
 
 ---
@@ -18,7 +18,7 @@ Este es un proyecto simple creado con fines de práctica. Permite buscar persona
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/rick-and-morty-search.git
+git clone https://github.com/teby00/rick-and-morty-search.git
 cd rick-and-morty-search
 
 # Instala dependencias
