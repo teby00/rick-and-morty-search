@@ -6,7 +6,7 @@ import { useLocation } from "wouter";
 
 export function Form({ initialValue }: { initialValue?: string }) {
   const [search, setSearch] = useState(initialValue || "");
-  const [location, navigate] = useLocation();
+  const [, navigate] = useLocation();
 
   const handelSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
